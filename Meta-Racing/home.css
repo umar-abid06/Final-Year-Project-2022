@@ -1,0 +1,89 @@
+ body{
+    background-color: #111926;
+}
+
+
+ .btn-primary {
+    background-color: #26ddf2;
+    color: #285e8e;
+    border-color: #111926;
+    font-weight: 600;
+    align-self: center;
+}
+.btn-primary:hover {
+    background-color: #26ddf2;
+    color: #111926;
+    border-color: #26ddf2;
+}
+
+.btn-primary:focus {
+    background-color: #26ddf2;
+    color: #111926;
+    border-color: #26ddf2;
+}
+
+.btn-primary:active    {
+    background-color: #26ddf2;
+    color: #111926;
+    border-color: #26ddf2;
+}
+
+.text1, .text2 {
+    color: #fff;
+    font-weight: 400;
+}
+
+.text1 {
+    font-size: 90px;
+}
+
+.text2 {
+    font-size: 40px;
+}
+
+.container1 {
+    align-items: center;
+    margin: 40px 50px 20px 50px;
+}
+
+.col1 {
+    margin-top: 200px;
+    margin-left: 50px;
+    text-align: center;
+    
+}
+
+#play {
+    margin-left: 210px;
+    margin-top: 20px;
+}
+
+#playDrop {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.btn-secondary {
+    background-color: #26ddf2;
+    color: #285e8e;
+    border-color: #111926;
+    font-weight: 600;
+    align-self: center;
+}
+.btn-secondary:hover {
+    background-color: #26ddf2;
+    color: #111926;
+    border-color: #26ddf2;
+}
+
+.btn-secondary:focus {
+    background-color: #26ddf2;
+    color: #111926;
+    border-color: #26ddf2;
+}
+
+.btn-secondary:active    {
+    background-color: #26ddf2;
+    color: #111926;
+    border-color: #26ddf2;
+}
